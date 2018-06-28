@@ -1,0 +1,487 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: _RightArm
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn L Thigh
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn L Thigh/Penitent_Bn L Calf
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn L Thigh/Penitent_Bn L Calf/Penitent_Bn
+      L Foot
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn L Thigh/Penitent_Bn L Calf/Penitent_Bn
+      L Foot/Penitent_Bn L Toe0
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn R Thigh
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn R Thigh/Penitent_Bn R Calf
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn R Thigh/Penitent_Bn R Calf/Penitent_Bn
+      R Foot
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn R Thigh/Penitent_Bn R Calf/Penitent_Bn
+      R Foot/Penitent_Bn R Toe0
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202/Penitent_Bn Xtra0203
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202/Penitent_Bn Xtra0203/Penitent_Bn Xtra0204
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202/Penitent_Bn Xtra0203/Penitent_Bn Xtra0204/Penitent_Bn
+      Xtra0205
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202/Penitent_Bn Xtra0203/Penitent_Bn Xtra0204/Penitent_Bn
+      Xtra0205/Penitent_Bn Xtra0206
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202/Penitent_Bn Xtra0203/Penitent_Bn Xtra0204/Penitent_Bn
+      Xtra0205/Penitent_Bn Xtra0206/Penitent_Bn Xtra0207
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202/Penitent_Bn Xtra0203/Penitent_Bn Xtra0204/Penitent_Bn
+      Xtra0205/Penitent_Bn Xtra0206/Penitent_Bn Xtra0207/Penitent_Bn Xtra0208
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202/Penitent_Bn Xtra0203/Penitent_Bn Xtra0204/Penitent_Bn
+      Xtra0205/Penitent_Bn Xtra0206/Penitent_Bn Xtra0207/Penitent_Bn Xtra0208/Penitent_Bn
+      Xtra0209
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202/Penitent_Bn Xtra0203/Penitent_Bn Xtra0204/Penitent_Bn
+      Xtra0205/Penitent_Bn Xtra0206/Penitent_Bn Xtra0207/Penitent_Bn Xtra0208/Penitent_Bn
+      Xtra0209/Penitent_Bn Xtra0210
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202/Penitent_Bn Xtra0203/Penitent_Bn Xtra0204/Penitent_Bn
+      Xtra0205/Penitent_Bn Xtra0206/Penitent_Bn Xtra0207/Penitent_Bn Xtra0208/Penitent_Bn
+      Xtra0209/Penitent_Bn Xtra0210/Penitent_Bn Xtra0211
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202/Penitent_Bn Xtra0203/Penitent_Bn Xtra0204/Penitent_Bn
+      Xtra0205/Penitent_Bn Xtra0206/Penitent_Bn Xtra0207/Penitent_Bn Xtra0208/Penitent_Bn
+      Xtra0209/Penitent_Bn Xtra0210/Penitent_Bn Xtra0211/Penitent_Bn Xtra0212
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra02/Penitent_Bn Xtra0202/Penitent_Bn Xtra0203/Penitent_Bn Xtra0204/Penitent_Bn
+      Xtra0205/Penitent_Bn Xtra0206/Penitent_Bn Xtra0207/Penitent_Bn Xtra0208/Penitent_Bn
+      Xtra0209/Penitent_Bn Xtra0210/Penitent_Bn Xtra0211/Penitent_Bn Xtra0212/Penitent_Bn
+      Xtra0213
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra03
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra03/Penitent_Bn Xtra0302
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra03/Penitent_Bn Xtra0302/Penitent_Bn Xtra0303
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra03/Penitent_Bn Xtra0302/Penitent_Bn Xtra0303/Penitent_Bn Xtra0304
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra03/Penitent_Bn Xtra0302/Penitent_Bn Xtra0303/Penitent_Bn Xtra0304/Penitent_Bn
+      Xtra0305
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra03/Penitent_Bn Xtra0302/Penitent_Bn Xtra0303/Penitent_Bn Xtra0304/Penitent_Bn
+      Xtra0305/Penitent_Bn Xtra0306
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra03/Penitent_Bn Xtra0302/Penitent_Bn Xtra0303/Penitent_Bn Xtra0304/Penitent_Bn
+      Xtra0305/Penitent_Bn Xtra0306/Penitent_Bn Xtra0307
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra03/Penitent_Bn Xtra0302/Penitent_Bn Xtra0303/Penitent_Bn Xtra0304/Penitent_Bn
+      Xtra0305/Penitent_Bn Xtra0306/Penitent_Bn Xtra0307/Penitent_Bn Xtra0308
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra03/Penitent_Bn Xtra0302/Penitent_Bn Xtra0303/Penitent_Bn Xtra0304/Penitent_Bn
+      Xtra0305/Penitent_Bn Xtra0306/Penitent_Bn Xtra0307/Penitent_Bn Xtra0308/Penitent_Bn
+      Xtra0309
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra04
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra04/Penitent_Bn Xtra0402
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra04/Penitent_Bn Xtra0402/Penitent_Bn Xtra0403
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra04/Penitent_Bn Xtra0402/Penitent_Bn Xtra0403/Penitent_Bn Xtra0404
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra04/Penitent_Bn Xtra0402/Penitent_Bn Xtra0403/Penitent_Bn Xtra0404/Penitent_Bn
+      Xtra0405
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra04/Penitent_Bn Xtra0402/Penitent_Bn Xtra0403/Penitent_Bn Xtra0404/Penitent_Bn
+      Xtra0405/Penitent_Bn Xtra0406
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra04/Penitent_Bn Xtra0402/Penitent_Bn Xtra0403/Penitent_Bn Xtra0404/Penitent_Bn
+      Xtra0405/Penitent_Bn Xtra0406/Penitent_Bn Xtra0407
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra04/Penitent_Bn Xtra0402/Penitent_Bn Xtra0403/Penitent_Bn Xtra0404/Penitent_Bn
+      Xtra0405/Penitent_Bn Xtra0406/Penitent_Bn Xtra0407/Penitent_Bn Xtra0408
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra04/Penitent_Bn Xtra0402/Penitent_Bn Xtra0403/Penitent_Bn Xtra0404/Penitent_Bn
+      Xtra0405/Penitent_Bn Xtra0406/Penitent_Bn Xtra0407/Penitent_Bn Xtra0408/Penitent_Bn
+      Xtra0409
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra04/Penitent_Bn Xtra0402/Penitent_Bn Xtra0403/Penitent_Bn Xtra0404/Penitent_Bn
+      Xtra0405/Penitent_Bn Xtra0406/Penitent_Bn Xtra0407/Penitent_Bn Xtra0408/Penitent_Bn
+      Xtra0409/Penitent_Bn Xtra0410
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra05
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra05/Penitent_Bn Xtra0502
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra05/Penitent_Bn Xtra0502/Penitent_Bn Xtra0503
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra05/Penitent_Bn Xtra0502/Penitent_Bn Xtra0503/Penitent_Bn Xtra0504
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra05/Penitent_Bn Xtra0502/Penitent_Bn Xtra0503/Penitent_Bn Xtra0504/Penitent_Bn
+      Xtra0505
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra05/Penitent_Bn Xtra0502/Penitent_Bn Xtra0503/Penitent_Bn Xtra0504/Penitent_Bn
+      Xtra0505/Penitent_Bn Xtra0506
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra05/Penitent_Bn Xtra0502/Penitent_Bn Xtra0503/Penitent_Bn Xtra0504/Penitent_Bn
+      Xtra0505/Penitent_Bn Xtra0506/Penitent_Bn Xtra0507
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra05/Penitent_Bn Xtra0502/Penitent_Bn Xtra0503/Penitent_Bn Xtra0504/Penitent_Bn
+      Xtra0505/Penitent_Bn Xtra0506/Penitent_Bn Xtra0507/Penitent_Bn Xtra0508
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra05/Penitent_Bn Xtra0502/Penitent_Bn Xtra0503/Penitent_Bn Xtra0504/Penitent_Bn
+      Xtra0505/Penitent_Bn Xtra0506/Penitent_Bn Xtra0507/Penitent_Bn Xtra0508/Penitent_Bn
+      Xtra0509
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn L
+      Clavicle/Penitent_Bn L UpperArm/Penitent_Bn L Forearm/Penitent_Bn L Hand/Penitent_Bn
+      Xtra05/Penitent_Bn Xtra0502/Penitent_Bn Xtra0503/Penitent_Bn Xtra0504/Penitent_Bn
+      Xtra0505/Penitent_Bn Xtra0506/Penitent_Bn Xtra0507/Penitent_Bn Xtra0508/Penitent_Bn
+      Xtra0509/Penitent_Bn Xtra0510
+    m_Weight: 0
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn Neck
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn Neck/Penitent_Bn
+      Head
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02/Penitent_Bn Xtra02Opp03
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02/Penitent_Bn Xtra02Opp03/Penitent_Bn Xtra02Opp04
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02/Penitent_Bn Xtra02Opp03/Penitent_Bn Xtra02Opp04/Penitent_Bn
+      Xtra02Opp05
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02/Penitent_Bn Xtra02Opp03/Penitent_Bn Xtra02Opp04/Penitent_Bn
+      Xtra02Opp05/Penitent_Bn Xtra02Opp06
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02/Penitent_Bn Xtra02Opp03/Penitent_Bn Xtra02Opp04/Penitent_Bn
+      Xtra02Opp05/Penitent_Bn Xtra02Opp06/Penitent_Bn Xtra02Opp07
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02/Penitent_Bn Xtra02Opp03/Penitent_Bn Xtra02Opp04/Penitent_Bn
+      Xtra02Opp05/Penitent_Bn Xtra02Opp06/Penitent_Bn Xtra02Opp07/Penitent_Bn Xtra02Opp08
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02/Penitent_Bn Xtra02Opp03/Penitent_Bn Xtra02Opp04/Penitent_Bn
+      Xtra02Opp05/Penitent_Bn Xtra02Opp06/Penitent_Bn Xtra02Opp07/Penitent_Bn Xtra02Opp08/Penitent_Bn
+      Xtra02Opp09
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02/Penitent_Bn Xtra02Opp03/Penitent_Bn Xtra02Opp04/Penitent_Bn
+      Xtra02Opp05/Penitent_Bn Xtra02Opp06/Penitent_Bn Xtra02Opp07/Penitent_Bn Xtra02Opp08/Penitent_Bn
+      Xtra02Opp09/Penitent_Bn Xtra02Opp10
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02/Penitent_Bn Xtra02Opp03/Penitent_Bn Xtra02Opp04/Penitent_Bn
+      Xtra02Opp05/Penitent_Bn Xtra02Opp06/Penitent_Bn Xtra02Opp07/Penitent_Bn Xtra02Opp08/Penitent_Bn
+      Xtra02Opp09/Penitent_Bn Xtra02Opp10/Penitent_Bn Xtra02Opp11
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02/Penitent_Bn Xtra02Opp03/Penitent_Bn Xtra02Opp04/Penitent_Bn
+      Xtra02Opp05/Penitent_Bn Xtra02Opp06/Penitent_Bn Xtra02Opp07/Penitent_Bn Xtra02Opp08/Penitent_Bn
+      Xtra02Opp09/Penitent_Bn Xtra02Opp10/Penitent_Bn Xtra02Opp11/Penitent_Bn Xtra02Opp12
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra02Opp/Penitent_Bn Xtra02Opp02/Penitent_Bn Xtra02Opp03/Penitent_Bn Xtra02Opp04/Penitent_Bn
+      Xtra02Opp05/Penitent_Bn Xtra02Opp06/Penitent_Bn Xtra02Opp07/Penitent_Bn Xtra02Opp08/Penitent_Bn
+      Xtra02Opp09/Penitent_Bn Xtra02Opp10/Penitent_Bn Xtra02Opp11/Penitent_Bn Xtra02Opp12/Penitent_Bn
+      Xtra02Opp13
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra03Opp
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra03Opp/Penitent_Bn Xtra03Opp02
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra03Opp/Penitent_Bn Xtra03Opp02/Penitent_Bn Xtra03Opp03
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra03Opp/Penitent_Bn Xtra03Opp02/Penitent_Bn Xtra03Opp03/Penitent_Bn Xtra03Opp04
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra03Opp/Penitent_Bn Xtra03Opp02/Penitent_Bn Xtra03Opp03/Penitent_Bn Xtra03Opp04/Penitent_Bn
+      Xtra03Opp05
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra03Opp/Penitent_Bn Xtra03Opp02/Penitent_Bn Xtra03Opp03/Penitent_Bn Xtra03Opp04/Penitent_Bn
+      Xtra03Opp05/Penitent_Bn Xtra03Opp06
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra03Opp/Penitent_Bn Xtra03Opp02/Penitent_Bn Xtra03Opp03/Penitent_Bn Xtra03Opp04/Penitent_Bn
+      Xtra03Opp05/Penitent_Bn Xtra03Opp06/Penitent_Bn Xtra03Opp07
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra03Opp/Penitent_Bn Xtra03Opp02/Penitent_Bn Xtra03Opp03/Penitent_Bn Xtra03Opp04/Penitent_Bn
+      Xtra03Opp05/Penitent_Bn Xtra03Opp06/Penitent_Bn Xtra03Opp07/Penitent_Bn Xtra03Opp08
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra03Opp/Penitent_Bn Xtra03Opp02/Penitent_Bn Xtra03Opp03/Penitent_Bn Xtra03Opp04/Penitent_Bn
+      Xtra03Opp05/Penitent_Bn Xtra03Opp06/Penitent_Bn Xtra03Opp07/Penitent_Bn Xtra03Opp08/Penitent_Bn
+      Xtra03Opp09
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra04Opp
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra04Opp/Penitent_Bn Xtra04Opp02
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra04Opp/Penitent_Bn Xtra04Opp02/Penitent_Bn Xtra04Opp03
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra04Opp/Penitent_Bn Xtra04Opp02/Penitent_Bn Xtra04Opp03/Penitent_Bn Xtra04Opp04
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra04Opp/Penitent_Bn Xtra04Opp02/Penitent_Bn Xtra04Opp03/Penitent_Bn Xtra04Opp04/Penitent_Bn
+      Xtra04Opp05
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra04Opp/Penitent_Bn Xtra04Opp02/Penitent_Bn Xtra04Opp03/Penitent_Bn Xtra04Opp04/Penitent_Bn
+      Xtra04Opp05/Penitent_Bn Xtra04Opp06
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra04Opp/Penitent_Bn Xtra04Opp02/Penitent_Bn Xtra04Opp03/Penitent_Bn Xtra04Opp04/Penitent_Bn
+      Xtra04Opp05/Penitent_Bn Xtra04Opp06/Penitent_Bn Xtra04Opp07
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra04Opp/Penitent_Bn Xtra04Opp02/Penitent_Bn Xtra04Opp03/Penitent_Bn Xtra04Opp04/Penitent_Bn
+      Xtra04Opp05/Penitent_Bn Xtra04Opp06/Penitent_Bn Xtra04Opp07/Penitent_Bn Xtra04Opp08
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra04Opp/Penitent_Bn Xtra04Opp02/Penitent_Bn Xtra04Opp03/Penitent_Bn Xtra04Opp04/Penitent_Bn
+      Xtra04Opp05/Penitent_Bn Xtra04Opp06/Penitent_Bn Xtra04Opp07/Penitent_Bn Xtra04Opp08/Penitent_Bn
+      Xtra04Opp09
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra04Opp/Penitent_Bn Xtra04Opp02/Penitent_Bn Xtra04Opp03/Penitent_Bn Xtra04Opp04/Penitent_Bn
+      Xtra04Opp05/Penitent_Bn Xtra04Opp06/Penitent_Bn Xtra04Opp07/Penitent_Bn Xtra04Opp08/Penitent_Bn
+      Xtra04Opp09/Penitent_Bn Xtra04Opp10
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra05Opp
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra05Opp/Penitent_Bn Xtra05Opp02
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra05Opp/Penitent_Bn Xtra05Opp02/Penitent_Bn Xtra05Opp03
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra05Opp/Penitent_Bn Xtra05Opp02/Penitent_Bn Xtra05Opp03/Penitent_Bn Xtra05Opp04
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra05Opp/Penitent_Bn Xtra05Opp02/Penitent_Bn Xtra05Opp03/Penitent_Bn Xtra05Opp04/Penitent_Bn
+      Xtra05Opp05
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra05Opp/Penitent_Bn Xtra05Opp02/Penitent_Bn Xtra05Opp03/Penitent_Bn Xtra05Opp04/Penitent_Bn
+      Xtra05Opp05/Penitent_Bn Xtra05Opp06
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra05Opp/Penitent_Bn Xtra05Opp02/Penitent_Bn Xtra05Opp03/Penitent_Bn Xtra05Opp04/Penitent_Bn
+      Xtra05Opp05/Penitent_Bn Xtra05Opp06/Penitent_Bn Xtra05Opp07
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra05Opp/Penitent_Bn Xtra05Opp02/Penitent_Bn Xtra05Opp03/Penitent_Bn Xtra05Opp04/Penitent_Bn
+      Xtra05Opp05/Penitent_Bn Xtra05Opp06/Penitent_Bn Xtra05Opp07/Penitent_Bn Xtra05Opp08
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra05Opp/Penitent_Bn Xtra05Opp02/Penitent_Bn Xtra05Opp03/Penitent_Bn Xtra05Opp04/Penitent_Bn
+      Xtra05Opp05/Penitent_Bn Xtra05Opp06/Penitent_Bn Xtra05Opp07/Penitent_Bn Xtra05Opp08/Penitent_Bn
+      Xtra05Opp09
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Spine/Penitent_Bn Spine1/Penitent_Bn R
+      Clavicle/Penitent_Bn R UpperArm/Penitent_Bn R Forearm/Penitent_Bn R Hand/Penitent_Bn
+      Xtra05Opp/Penitent_Bn Xtra05Opp02/Penitent_Bn Xtra05Opp03/Penitent_Bn Xtra05Opp04/Penitent_Bn
+      Xtra05Opp05/Penitent_Bn Xtra05Opp06/Penitent_Bn Xtra05Opp07/Penitent_Bn Xtra05Opp08/Penitent_Bn
+      Xtra05Opp09/Penitent_Bn Xtra05Opp10
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Xtra01
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Xtra01/Penitent_Bn Xtra0102
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Xtra01Opp
+    m_Weight: 1
+  - m_Path: Penitent_Bn Pelvis/Penitent_Bn Xtra01Opp/Penitent_Bn Xtra01Opp02
+    m_Weight: 1
+  - m_Path: Penitent_Mesh
+    m_Weight: 1

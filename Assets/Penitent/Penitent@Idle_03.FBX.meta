@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 232aaaa481025be4ca017614b70f4d7c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Penitent_Bn Head
+    100004: Penitent_Bn L Calf
+    100006: Penitent_Bn L Clavicle
+    100008: Penitent_Bn L Foot
+    100010: Penitent_Bn L Forearm
+    100012: Penitent_Bn L Hand
+    100014: Penitent_Bn L Thigh
+    100016: Penitent_Bn L Toe0
+    100018: Penitent_Bn L UpperArm
+    100020: Penitent_Bn Neck
+    100022: Penitent_Bn R Calf
+    100024: Penitent_Bn R Clavicle
+    100026: Penitent_Bn R Foot
+    100028: Penitent_Bn R Forearm
+    100030: Penitent_Bn R Hand
+    100032: Penitent_Bn R Thigh
+    100034: Penitent_Bn R Toe0
+    100036: Penitent_Bn R UpperArm
+    100038: Penitent_Bn Spine
+    100040: Penitent_Bn Spine1
+    100042: Penitent_Bn Xtra01
+    100044: Penitent_Bn Xtra0102
+    100046: Penitent_Bn Xtra01Opp
+    100048: Penitent_Bn Xtra01Opp02
+    100050: Penitent_Bn Xtra02
+    100052: Penitent_Bn Xtra0202
+    100054: Penitent_Bn Xtra0203
+    100056: Penitent_Bn Xtra0204
+    100058: Penitent_Bn Xtra0205
+    100060: Penitent_Bn Xtra0206
+    100062: Penitent_Bn Xtra0207
+    100064: Penitent_Bn Xtra0208
+    100066: Penitent_Bn Xtra0209
+    100068: Penitent_Bn Xtra0210
+    100070: Penitent_Bn Xtra0211
+    100072: Penitent_Bn Xtra0212
+    100074: Penitent_Bn Xtra0213
+    100076: Penitent_Bn Xtra02Opp
+    100078: Penitent_Bn Xtra02Opp02
+    100080: Penitent_Bn Xtra02Opp03
+    100082: Penitent_Bn Xtra02Opp04
+    100084: Penitent_Bn Xtra02Opp05
+    100086: Penitent_Bn Xtra02Opp06
+    100088: Penitent_Bn Xtra02Opp07
+    100090: Penitent_Bn Xtra02Opp08
+    100092: Penitent_Bn Xtra02Opp09
+    100094: Penitent_Bn Xtra02Opp10
+    100096: Penitent_Bn Xtra02Opp11
+    100098: Penitent_Bn Xtra02Opp12
+    100100: Penitent_Bn Xtra02Opp13
+    100102: Penitent_Bn Xtra03
+    100104: Penitent_Bn Xtra0302
+    100106: Penitent_Bn Xtra0303
+    100108: Penitent_Bn Xtra0304
+    100110: Penitent_Bn Xtra0305
+    100112: Penitent_Bn Xtra0306
+    100114: Penitent_Bn Xtra0307
+    100116: Penitent_Bn Xtra0308
+    100118: Penitent_Bn Xtra0309
+    100120: Penitent_Bn Xtra03Opp
+    100122: Penitent_Bn Xtra03Opp02
+    100124: Penitent_Bn Xtra03Opp03
+    100126: Penitent_Bn Xtra03Opp04
+    100128: Penitent_Bn Xtra03Opp05
+    100130: Penitent_Bn Xtra03Opp06
+    100132: Penitent_Bn Xtra03Opp07
+    100134: Penitent_Bn Xtra03Opp08
+    100136: Penitent_Bn Xtra03Opp09
+    100138: Penitent_Bn Xtra04
+    100140: Penitent_Bn Xtra0402
+    100142: Penitent_Bn Xtra0403
+    100144: Penitent_Bn Xtra0404
+    100146: Penitent_Bn Xtra0405
+    100148: Penitent_Bn Xtra0406
+    100150: Penitent_Bn Xtra0407
+    100152: Penitent_Bn Xtra0408
+    100154: Penitent_Bn Xtra0409
+    100156: Penitent_Bn Xtra0410
+    100158: Penitent_Bn Xtra04Opp
+    100160: Penitent_Bn Xtra04Opp02
+    100162: Penitent_Bn Xtra04Opp03
+    100164: Penitent_Bn Xtra04Opp04
+    100166: Penitent_Bn Xtra04Opp05
+    100168: Penitent_Bn Xtra04Opp06
+    100170: Penitent_Bn Xtra04Opp07
+    100172: Penitent_Bn Xtra04Opp08
+    100174: Penitent_Bn Xtra04Opp09
+    100176: Penitent_Bn Xtra04Opp10
+    100178: Penitent_Bn Xtra05
+    100180: Penitent_Bn Xtra0502
+    100182: Penitent_Bn Xtra0503
+    100184: Penitent_Bn Xtra0504
+    100186: Penitent_Bn Xtra0505
+    100188: Penitent_Bn Xtra0506
+    100190: Penitent_Bn Xtra0507
+    100192: Penitent_Bn Xtra0508
+    100194: Penitent_Bn Xtra0509
+    100196: Penitent_Bn Xtra0510
+    100198: Penitent_Bn Xtra05Opp
+    100200: Penitent_Bn Xtra05Opp02
+    100202: Penitent_Bn Xtra05Opp03
+    100204: Penitent_Bn Xtra05Opp04
+    100206: Penitent_Bn Xtra05Opp05
+    100208: Penitent_Bn Xtra05Opp06
+    100210: Penitent_Bn Xtra05Opp07
+    100212: Penitent_Bn Xtra05Opp08
+    100214: Penitent_Bn Xtra05Opp09
+    100216: Penitent_Bn Xtra05Opp10
+    100218: Penitent_Bn Pelvis
+    400000: //RootNode
+    400002: Penitent_Bn Head
+    400004: Penitent_Bn L Calf
+    400006: Penitent_Bn L Clavicle
+    400008: Penitent_Bn L Foot
+    400010: Penitent_Bn L Forearm
+    400012: Penitent_Bn L Hand
+    400014: Penitent_Bn L Thigh
+    400016: Penitent_Bn L Toe0
+    400018: Penitent_Bn L UpperArm
+    400020: Penitent_Bn Neck
+    400022: Penitent_Bn R Calf
+    400024: Penitent_Bn R Clavicle
+    400026: Penitent_Bn R Foot
+    400028: Penitent_Bn R Forearm
+    400030: Penitent_Bn R Hand
+    400032: Penitent_Bn R Thigh
+    400034: Penitent_Bn R Toe0
+    400036: Penitent_Bn R UpperArm
+    400038: Penitent_Bn Spine
+    400040: Penitent_Bn Spine1
+    400042: Penitent_Bn Xtra01
+    400044: Penitent_Bn Xtra0102
+    400046: Penitent_Bn Xtra01Opp
+    400048: Penitent_Bn Xtra01Opp02
+    400050: Penitent_Bn Xtra02
+    400052: Penitent_Bn Xtra0202
+    400054: Penitent_Bn Xtra0203
+    400056: Penitent_Bn Xtra0204
+    400058: Penitent_Bn Xtra0205
+    400060: Penitent_Bn Xtra0206
+    400062: Penitent_Bn Xtra0207
+    400064: Penitent_Bn Xtra0208
+    400066: Penitent_Bn Xtra0209
+    400068: Penitent_Bn Xtra0210
+    400070: Penitent_Bn Xtra0211
+    400072: Penitent_Bn Xtra0212
+    400074: Penitent_Bn Xtra0213
+    400076: Penitent_Bn Xtra02Opp
+    400078: Penitent_Bn Xtra02Opp02
+    400080: Penitent_Bn Xtra02Opp03
+    400082: Penitent_Bn Xtra02Opp04
+    400084: Penitent_Bn Xtra02Opp05
+    400086: Penitent_Bn Xtra02Opp06
+    400088: Penitent_Bn Xtra02Opp07
+    400090: Penitent_Bn Xtra02Opp08
+    400092: Penitent_Bn Xtra02Opp09
+    400094: Penitent_Bn Xtra02Opp10
+    400096: Penitent_Bn Xtra02Opp11
+    400098: Penitent_Bn Xtra02Opp12
+    400100: Penitent_Bn Xtra02Opp13
+    400102: Penitent_Bn Xtra03
+    400104: Penitent_Bn Xtra0302
+    400106: Penitent_Bn Xtra0303
+    400108: Penitent_Bn Xtra0304
+    400110: Penitent_Bn Xtra0305
+    400112: Penitent_Bn Xtra0306
+    400114: Penitent_Bn Xtra0307
+    400116: Penitent_Bn Xtra0308
+    400118: Penitent_Bn Xtra0309
+    400120: Penitent_Bn Xtra03Opp
+    400122: Penitent_Bn Xtra03Opp02
+    400124: Penitent_Bn Xtra03Opp03
+    400126: Penitent_Bn Xtra03Opp04
+    400128: Penitent_Bn Xtra03Opp05
+    400130: Penitent_Bn Xtra03Opp06
+    400132: Penitent_Bn Xtra03Opp07
+    400134: Penitent_Bn Xtra03Opp08
+    400136: Penitent_Bn Xtra03Opp09
+    400138: Penitent_Bn Xtra04
+    400140: Penitent_Bn Xtra0402
+    400142: Penitent_Bn Xtra0403
+    400144: Penitent_Bn Xtra0404
+    400146: Penitent_Bn Xtra0405
+    400148: Penitent_Bn Xtra0406
+    400150: Penitent_Bn Xtra0407
+    400152: Penitent_Bn Xtra0408
+    400154: Penitent_Bn Xtra0409
+    400156: Penitent_Bn Xtra0410
+    400158: Penitent_Bn Xtra04Opp
+    400160: Penitent_Bn Xtra04Opp02
+    400162: Penitent_Bn Xtra04Opp03
+    400164: Penitent_Bn Xtra04Opp04
+    400166: Penitent_Bn Xtra04Opp05
+    400168: Penitent_Bn Xtra04Opp06
+    400170: Penitent_Bn Xtra04Opp07
+    400172: Penitent_Bn Xtra04Opp08
+    400174: Penitent_Bn Xtra04Opp09
+    400176: Penitent_Bn Xtra04Opp10
+    400178: Penitent_Bn Xtra05
+    400180: Penitent_Bn Xtra0502
+    400182: Penitent_Bn Xtra0503
+    400184: Penitent_Bn Xtra0504
+    400186: Penitent_Bn Xtra0505
+    400188: Penitent_Bn Xtra0506
+    400190: Penitent_Bn Xtra0507
+    400192: Penitent_Bn Xtra0508
+    400194: Penitent_Bn Xtra0509
+    400196: Penitent_Bn Xtra0510
+    400198: Penitent_Bn Xtra05Opp
+    400200: Penitent_Bn Xtra05Opp02
+    400202: Penitent_Bn Xtra05Opp03
+    400204: Penitent_Bn Xtra05Opp04
+    400206: Penitent_Bn Xtra05Opp05
+    400208: Penitent_Bn Xtra05Opp06
+    400210: Penitent_Bn Xtra05Opp07
+    400212: Penitent_Bn Xtra05Opp08
+    400214: Penitent_Bn Xtra05Opp09
+    400216: Penitent_Bn Xtra05Opp10
+    400218: Penitent_Bn Pelvis
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f6d5ec0d4270c7c479c74b1e96118c33,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
